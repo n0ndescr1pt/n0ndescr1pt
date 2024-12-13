@@ -11,12 +11,12 @@
 - **Drift**: DB
 - **Provider**: DI
 
-## 😼 my awesome projects
+## my awesome projects
 
 1. [`spotlight_ui`]([https://github.com/neverlane/shikimori](https://github.com/n0ndescr1pt/spotlight_ui)) - flutter library for onbording in your app.
 2. [`mirar_cinema`]([https://github.com/thedvxchsquad/kodikwrapper](https://github.com/n0ndescr1pt/mirar_cinema)) - app for wathcing movies and sharing your personal ratings.
 
-## ✉️ contact with me
+## contact with me
 
 telegram: [**@n0ndescr1pt**](https://n0ndescr1pt.t.me/)
 
