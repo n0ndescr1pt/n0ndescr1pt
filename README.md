@@ -1,4 +1,4 @@
-# hello everynyan
+# hello everyone
 
 19 yo flutter developer
 
