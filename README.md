@@ -14,7 +14,7 @@
 ## my awesome projects
 
 1. [spotlight_ui](https://pub.dev/packages/spotlight_ui) - flutter library for onbording in your app.
-2. [mirar_cinema]() - app for wathcing movies and sharing your personal ratings.
+2. [mirar_cinema](https://github.com/n0ndescr1pt/mirar_cinema) - app for wathcing movies and sharing your personal ratings.
 
 ## contact with me
 
