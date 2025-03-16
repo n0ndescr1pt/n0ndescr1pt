@@ -4,12 +4,12 @@
 
 ## main stack
 
-- **BLoC**: state manager
-- **Freezed**: code gen
-- **Dio**: network
-- **GoRouter**: routing
-- **Drift**: DB
-- **Provider**: DI
+- **state manager**: BLoC
+- **code gen**: Freezed
+- **network**: Dio
+- **routing**: GoRouter
+- **DB**: Drift, sqfLite
+- **DI**: Provider
 
 ## my awesome projects
 
