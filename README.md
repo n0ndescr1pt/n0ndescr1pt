@@ -1,12 +1,10 @@
 # hello everyone
 
-20 yo flutter developer
-
 ## main stack
 
 - **state manager**: BLoC
 - **code gen**: Freezed
-- **network**: Dio
+- **network**: Dio, Retrofit
 - **routing**: GoRouter
 - **DB**: Drift, sqfLite
 - **DI**: Provider
